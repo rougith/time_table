@@ -29,8 +29,11 @@ Execute the program using runserver command.
   <title>Slot Timetable</title>
 </head>
 <body>
-  <center>
-   
+
+
+  </center><br>
+   <img src="![Uploading Screenshot 2025-09-29 213607.png…]()"
+     height="100" width="540">
 
 
   <table align="center" width="540" border="5" cellspacing="3" bgcolor= "beige">
